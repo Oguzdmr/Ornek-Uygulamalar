@@ -1,0 +1,12 @@
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\100 den 999 a kadar olan sayılardan basamak küplerinin toplamı kendisine eşit olan sayılar\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\100 den 999 a kadar olan sayılardan basamak küplerinin toplamı kendisine eşit olan sayılar\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\100 den 999 a kadar olan sayılardan basamak küplerinin toplamı kendisine eşit olan sayılar\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

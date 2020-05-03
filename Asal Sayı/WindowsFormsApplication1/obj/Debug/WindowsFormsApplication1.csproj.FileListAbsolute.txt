@@ -1,0 +1,18 @@
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Asal Sayı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Asal Sayı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Asal Sayı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Asal Sayı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Asal Sayı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Asal Sayı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Asal Sayı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Asal Sayı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Asal Sayı\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

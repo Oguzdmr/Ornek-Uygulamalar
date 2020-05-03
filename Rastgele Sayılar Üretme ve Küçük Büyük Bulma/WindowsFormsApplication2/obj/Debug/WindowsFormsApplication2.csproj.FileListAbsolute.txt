@@ -1,0 +1,12 @@
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Rastgele Sayılar Üretme ve Küçük Büyük Bulma\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Rastgele Sayılar Üretme ve Küçük Büyük Bulma\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Rastgele Sayılar Üretme ve Küçük Büyük Bulma\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

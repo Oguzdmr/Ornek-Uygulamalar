@@ -1,0 +1,18 @@
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\gll\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Top ile Patlatma\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Top ile Patlatma\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Top ile Patlatma\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Top ile Patlatma\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Top ile Patlatma\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Top ile Patlatma\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Top ile Patlatma\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Top ile Patlatma\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\GLL\Documents\Visual Studio 2013\Projects\Top ile Patlatma\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
